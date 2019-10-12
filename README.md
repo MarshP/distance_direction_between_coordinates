@@ -4,7 +4,7 @@ Download x_y_distance_calc.py and run_x_y_distance_calc.py to the same folder/di
 
 ### What it does now ###
 
-Put in two sets of Minecraft or real world map coordinates. The script will give you back the distance and direction between them. The script is aware of the Y-axis difference between real-worls and Minecraft maps.
+Put in two sets of Minecraft or real world map coordinates. The script will give you back the distance and direction between them. The script is aware of the Y-axis difference between real-world and Minecraft maps.
 
 ### Gotchas ###
 
